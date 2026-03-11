@@ -1,11 +1,9 @@
-Project 1: CORE HR Infrastructure (Banking Sector)
+Project: CORE HR Infrastructure (Banking Sector)
 
-Worked on developing and maintaining an HR Module application used in the banking sector to manage large-scale employee transactions. 
-The system was built using ASP.NET MVC, .NET Core, C#, Entity Framework Core, Hangfire, and SQL Server.
-The application handled employee data processing, automated background jobs, and ensured reliable and secure HR operations.
+Worked on developing and maintaining a CORE HR Infrastructure application used in the banking sector to manage large-scale employee data and HR transactions. 
+The system was built using ASP.NET MVC, .NET Core, C#, Entity Framework Core, Hangfire, and SQL Server. 
+Responsibilities included developing and enhancing application features, building RESTful APIs, optimizing database queries, 
+and automating background processes using Hangfire.
 
-Project 2: Production Support & Error Monitoring System
-
-Worked on monitoring and resolving production issues to ensure high system availability and performance. 
-The application was built using ASP.NET MVC, C#, Entity Framework, SQL Server, and Serilog for logging. 
-Responsibilities included analyzing errors, identifying root causes, fixing bugs, and improving system stability.
+Additionally, handled production support and error monitoring by tracking application logs using Serilog, analyzing production issues,
+identifying root causes, and fixing bugs to ensure high system availability, reliability, and smooth business operations.
